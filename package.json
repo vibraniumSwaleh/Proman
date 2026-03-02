@@ -13,9 +13,11 @@
     "@emotion/styled": "^11.14.1",
     "@mui/material": "^6.5.0",
     "@mui/x-data-grid": "^8.27.3",
+    "@reduxjs/toolkit": "^2.11.2",
     "@wamra/gantt-task-react": "^0.6.17",
     "axios": "^1.13.5",
     "date-fns": "^4.1.0",
+    "dotenv": "^17.3.1",
     "lucide-react": "^0.575.0",
     "next": "16.1.6",
     "numeral": "^2.0.6",
@@ -23,7 +25,9 @@
     "react-dnd": "^16.0.1",
     "react-dnd-html5-backend": "^16.0.1",
     "react-dom": "19.2.3",
-    "recharts": "^3.7.0"
+    "react-redux": "^9.2.0",
+    "recharts": "^3.7.0",
+    "redux-persist": "^6.0.0"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
